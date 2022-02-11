@@ -30,16 +30,22 @@
 ```kotlin
 //코드 샘플
 ```
+<br></br>
+<br></br>
 
 ><a id = "content2">**content2**</a></br>
 ```kotlin
 //코드 샘플
 ```
+<br></br>
+<br></br>
 
 ><a id = "content3">**content3**</a></br>
 ```kotlin
 //코드샘플
 ```
+<br></br>
+<br></br>
 ---
 
 ><a id = "ref">**참고링크**</a></br>
