@@ -25,25 +25,16 @@
 ---
 ><a id = "content1">**1. content1**</a></br>
 
-`한줄 코드 샘플`
-
-```kotlin
-//코드 샘플
-```
 <br></br>
 <br></br>
 
 ><a id = "content2">**2. content2**</a></br>
-```kotlin
-//코드 샘플
-```
+
 <br></br>
 <br></br>
 
 ><a id = "content3">**3. content3**</a></br>
-```kotlin
-//코드샘플
-```
+
 <br></br>
 <br></br>
 ---
